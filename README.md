@@ -10,7 +10,7 @@ A simple and fun Tic Tac Toe game built with HTML, CSS, and JavaScript. This pro
 
 ## Demo
 
-Check out a live demo of the game [here](#).
+Check out a live demo of the game [Tic-Tac-Toe-Game](https://tic-tac-triumph.netlify.app/).
 
 ## Getting Started
 
